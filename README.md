@@ -39,8 +39,6 @@ Having fun? Ask a friend to do the next move!
 
 When you click on a link and submit a new issue with the desired move, a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
 
-Have you spotted a bug? Something missing? Feel free to open an [issue](https://github.com/anjulameegalla/not-chess/issues) 
-
 
 #### Last 5 moves in this game
 <!-- BEGIN LAST MOVES -->
@@ -51,17 +49,6 @@ Have you spotted a bug? Something missing? Feel free to open an [issue](https://
 
 <!-- END LAST MOVES -->
 
-
-<details>
-  <summary><b>Top 10 most moves across all games</b></summary>
-<!-- BEGIN TOP MOVES -->
-(Here goes the top 10 most moves)
-<!-- END TOP MOVES -->
-</details>
-
 ---
 
-
-
-### Credits
 Do you want to make your own? Check out repo template at [marcizhu/readme-chess](https://github.com/marcizhu/readme-chess)! <br>
