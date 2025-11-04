@@ -1,4 +1,4 @@
-# Let's play some Chess!
+# Let's play some CHESS!
 
 This is an open chess tournament where ANYONE can play. That's the fun part.  
 It's your turn to play! Move a <!-- BEGIN TURN -->white<!-- END TURN --> piece.
