@@ -4,7 +4,7 @@ I'm [Anjula](https://anjula.live/), a cybersecurity undergraduate from Sri Lanka
 
 I love trying scripts and tools and educating people about internet safety.
 
-I'm currently prepping for the CRTA and RHCSA exams.
+I'm currently prepping for the RHCSA exam.
 
 You can find my full tech stack and experience on [my CV](https://anjula.live/assets/Resume%20-%20Anjula%20Meegalla.pdf).
 
