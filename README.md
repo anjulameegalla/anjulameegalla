@@ -8,12 +8,6 @@ I'm currently prepping for the RHCSA exam.
 
 You can find my full tech stack and experience on [my CV](https://anjula.live/assets/Resume%20-%20Anjula%20Meegalla.pdf).
 
-I've built a few things, including my [homelabs repo](https://github.com/anjulameegalla/homelabs) and small tools like [NameForge](https://github.com/anjulameegalla/NameForge) and [Synfo](https://github.com/anjulameegalla/Synfo).
-
 You can find me on [LinkedIn](https://www.linkedin.com/in/anjula-meegalla/), watch [my youtube](https://www.youtube.com/@Anjula), or [email me](mailto:hello@anjula.live).
 
-Fun Facts:
-* I love cats
-* Favorite singer: Billie
-* Favorite thing to eat: any kind of chocolate icecream
-* Hobbies: gaming, chess, and [writing about paradoxes and stuff](https://anjula.live/blog/)
+hobbies: vibe coding, gaming, and [writing about paradoxes and stuff](https://anjula.live/blog/)
