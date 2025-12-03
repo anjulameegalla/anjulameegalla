@@ -8,6 +8,6 @@ I'm currently prepping for the RHCSA exam.
 
 You can find my full tech stack and experience on [my CV](https://anjula.live/assets/Resume%20-%20Anjula%20Meegalla.pdf).
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/anjula-meegalla/), read watch [my youtube](https://www.youtube.com/@Anjula), or [email me](mailto:hello@anjula.live).
+You can find me on [LinkedIn](https://www.linkedin.com/in/anjula-meegalla/), read [my blog](https://anjula.live/) watch [my youtube](https://www.youtube.com/@Anjula), or [email me](mailto:hello@anjula.live).
 
 hobbies: vibe coding, gaming, chess and [writing about paradoxes and stuff](https://anjula.live/)
