@@ -8,11 +8,11 @@
 <!-- -->
 <!-- -->
 <!-- -->
-<!-- -->
 
 <div align="center">
 <img src="/img/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
 </div>
+<br>
 
 <!-- -->
 <table width="100%" align="center">
@@ -45,6 +45,7 @@
 </td>
 </tr>
 </table>
+<br>
 
 <!-- -->
 <div align="center">
@@ -56,7 +57,6 @@
 <img src="/img/noframes.gif" alt="Microsoft Internet Explorer" />
 
 </div>
-<!-- -->
 <!-- -->
 <!-- -->
 <!-- -->
