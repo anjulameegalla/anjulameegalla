@@ -32,7 +32,7 @@
 </td>
 
 <td align="center">
-<a href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose">
+<a href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose" target="_blank">
 <strong>Sign my guest book here.</strong>
 <br />
 <br />
