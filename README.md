@@ -56,8 +56,8 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 <img src="/img/noframes.gif" alt="Microsoft Internet Explorer" />
 
+<p>credits to @brunnerlivio and @fnky<p>
 </div>
-<!-- -->
 <!-- -->
 <!-- -->
 <!-- -->
