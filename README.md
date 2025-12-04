@@ -1,11 +1,69 @@
-Hey there! <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="30px">
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
 
-I'm Anjula, a cybersecurity undergraduate from Sri Lanka.
+<div align="center">
+<img src="/img/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+</div>
 
-I love trying scripts and tools and educating people about internet safety.
+<!-- -->
+<table width="100%" align="center">
+<tr>
+<td align="center">
+<a href="https://anjula.live">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+<br />
 
-I'm currently prepping for the RHCSA exam.
+<p>
+<img alt="Globe" height="80" src="img/globe.gif">
+</a>
+</p>
 
-You can find me on [LinkedIn](https://www.linkedin.com/in/anjula-meegalla/), read [my blog](https://anjula.live/) watch [my youtube](https://www.youtube.com/@Anjula), or [email me](mailto:hello@anjula.live).
+</td>
 
-Download [my Resume](https://anjula.live/assets/Resume%20-%20Anjula%20Meegalla.pdf) here. 
+<td align="center">
+<a href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose">
+<strong>Sign my guest book here.</strong>
+<br />
+<br />
+
+<p>
+<img height="100" alt="Music" src="img/guestbook.gif"> 
+</a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<!-- -->
+<div align="center">
+
+<img src="/img/notepad.gif" alt="Site created with Notepad" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="/img/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="/img/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
+<!-- -->
