@@ -25,7 +25,7 @@
 <br />
 
 <p>
-<img alt="Globe" height="80" src="img/globe.gif">
+<img alt="Globe" height="80" src="img/globe.gif" href="https://anjula.live">
 </a>
 </p>
 
@@ -38,7 +38,7 @@
 <br />
 
 <p>
-<img height="100" alt="Music" src="img/guestbook.gif"> 
+<img height="100" alt="Music" src="img/guestbook.gif" href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose"> 
 </a>
 </p>
 
