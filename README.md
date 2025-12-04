@@ -18,14 +18,17 @@
 <table width="100%" align="center">
 <tr>
 <td align="center">
-<a href="https://anjula.live">
+<a href="https://anjula.live" target="_blank">
 <strong>Visit my personal website </strong>
 <br />
 <br />
 <br />
 
 <p>
-<img alt="Globe" height="80" src="img/globe.gif" href="https://anjula.live">
+<a href="https://anjula.live" target="_blank">
+  <img alt="Globe" height="80" src="img/globe.gif">
+</a>
+
 </a>
 </p>
 
@@ -38,7 +41,10 @@
 <br />
 
 <p>
-<img height="100" alt="Music" src="img/guestbook.gif" href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose"> 
+<a href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose" target="_blank">
+<img height="100" alt="Music" src="img/guestbook.gif"> 
+</a>
+
 </a>
 </p>
 
