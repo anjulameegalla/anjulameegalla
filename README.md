@@ -21,6 +21,7 @@
 <a href="https://anjula.live" target="_blank">
 <strong>Visit my personal website </strong>
 <br />
+<a href="https://anjula.live/pgp.txt" target="_blank">[My PGP key]</a>
 <br />
 <br />
 
