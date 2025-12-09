@@ -2,12 +2,6 @@
 <!-- -->
 <!-- -->
 <!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
 
 <div align="center">
 <img src="/img/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
@@ -19,9 +13,8 @@
 <tr>
 <td align="center">
 <a href="https://anjula.live" target="_blank">
-<strong>Visit my personal website </strong>
+<strong> Visit my website </strong>
 <br />
-<a href="https://anjula.live/pgp.txt" target="_blank">[My PGP key]</a>
 <br />
 <br />
 
@@ -32,12 +25,11 @@
 
 </a>
 </p>
-
 </td>
 
 <td align="center">
 <a href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose" target="_blank">
-<strong>Sign my guest book here.</strong>
+<strong> Sign my guest book </strong>
 <br />
 <br />
 
@@ -45,13 +37,18 @@
 <a href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose" target="_blank">
 <img height="100" alt="Music" src="img/guestbook.gif"> 
 </a>
-
+  
 </a>
 </p>
 
 </td>
 </tr>
 </table>
+<br>
+
+<div align="center">
+<a href="https://anjula.live/pgp.txt" target="_blank">[My PGP key]</a>
+</div>
 <br>
 
 <!-- -->
@@ -65,11 +62,7 @@
 
 <p>credits to @brunnerlivio and @fnky<p>
 </div>
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
+
 <!-- -->
 <!-- -->
 <!-- -->
