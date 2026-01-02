@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://anjula.live">Anjula</a></b>.
+    Hello there! I'm <strong><a rel="nofollow noopener noreferrer" target="_blank" href="https://anjula.live">Anjula</a></strong>.
     <br>I'm a Cybersecurity Undergraduate Student from Sri Lanka.<br>
 
   </samp>
@@ -25,5 +25,13 @@
 </samp>
 </details>
 
-<img src="/img/notepad.gif" alt="Site created with Notepad" height="30" />
+<p align="center">
+
+<img src="/img/notepad.gif" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="/img/ie_logo.gif" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="/img/noframes.gif" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+
+</p>
