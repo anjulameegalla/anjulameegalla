@@ -1,69 +1,28 @@
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
+<p align="center">
+  <br>
+  <samp>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://anjula.live">Anjula</a></b>.
+    <br>I'm a Cybersecurity Undergraduate Student from Sri Lanka.<br>
 
-<div align="center">
-<img src="/img/welcome.png" style="max-width: 100%;" alt="Welcome to my Github Profile" />
-</div>
-<br>
+  </samp>
+  <br>
+  <img src="/assets/bonefire.gif" width="200"/>
 
-<!-- -->
-<table width="100%" align="center">
-<tr>
-<td align="center">
-<a href="https://anjula.live" target="_blank">
-<strong> Visit my website </strong>
-<br />
-<br />
-<br />
-
-<p>
-<a href="https://anjula.live" target="_blank">
-  <img alt="Globe" height="80" src="img/globe.gif">
-</a>
-
-</a>
-</p>
-</td>
-
-<td align="center">
-<a href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose" target="_blank">
-<strong> Sign my guest book </strong>
-<br />
-<br />
-
-<p>
-<a href="https://github.com/anjulameegalla/anjulameegalla/issues/new/choose" target="_blank">
-<img height="100" alt="Music" src="img/guestbook.gif"> 
-</a>
-  
-</a>
 </p>
 
-</td>
-</tr>
-</table>
-<br>
 
-<div align="center">
-<a href="https://anjula.live/pgp.txt" target="_blank">[My PGP key]</a>
-</div>
-<br>
+<details align="center">
 
-<!-- -->
-<div align="center">
+<summary> <b> <samp> Connect with me </samp></b></summary>
+<samp>
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> [![PGP Badge](https://img.shields.io/badge/-PGP_Key-605287?style=flat-square&labelColor=605287&logo=PGP&logoColor=white&link=https://anjula.live/pgp.txt)](https://anjula.live/pgp.txt) [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/anjulameegalla)](https://github.com/anjulameegalla)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/anjula-meegalla/)](https://www.linkedin.com/in/anjula-meegalla/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discord.com/users/1108854507909173259)](https://discord.com/users/1108854507909173259)
+[![Spotify Badge](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31rzhy7xhbevwkz6btn3hb2xiq3u)](https://open.spotify.com/user/31rzhy7xhbevwkz6btn3hb2xiq3u) <em> ~ projects down here ↓ ~ </a></em>
 
 <img src="/img/notepad.gif" alt="Site created with Notepad" height="30" />
 <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="/img/ie_logo.gif" alt="Microsoft Internet Explorer" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
-<img src="/img/noframes.gif" alt="Microsoft Internet Explorer" />
 
-<p>credits to @brunnerlivio and @fnky<p>
-</div>
-
-<!-- -->
-<!-- -->
-<!-- -->
-<!-- -->
+</samp>
+</details>
