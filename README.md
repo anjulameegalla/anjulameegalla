@@ -6,7 +6,7 @@
 
   </samp>
   <br>
-  <img src="/assets/bonefire.gif" width="200"/>
+  <img src="/img/bonefire.gif" width="200"/>
 
 </p>
 
@@ -21,8 +21,9 @@
 [![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat-square&labelColor=7289DA&logo=discord&logoColor=white&link=https://discord.com/users/1108854507909173259)](https://discord.com/users/1108854507909173259)
 [![Spotify Badge](https://img.shields.io/badge/-Spotify-1db954?style=flat-square&labelColor=1db954&logo=spotify&logoColor=white&link=https://open.spotify.com/user/31rzhy7xhbevwkz6btn3hb2xiq3u)](https://open.spotify.com/user/31rzhy7xhbevwkz6btn3hb2xiq3u) <em> ~ projects down here ↓ ~ </a></em>
 
-<img src="/img/notepad.gif" alt="Site created with Notepad" height="30" />
-<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
 
 </samp>
 </details>
+
+<img src="/img/notepad.gif" alt="Site created with Notepad" height="30" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
