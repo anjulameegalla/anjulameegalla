@@ -6,6 +6,6 @@
 
   </samp>
   <br>
-  <img src="/img/bonefire.gif" width="200"/>
+  <img src="/img/pacman-contributions.svg" />
 
 </p>
