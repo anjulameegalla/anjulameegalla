@@ -2,6 +2,8 @@
 
 ![welcome](/assets/welcome.png)
 
+Most of my personal labs, writeups, and older repositories are currently set to private. Reach out if you're looking for anything specific.
+
 [**Visit my blog →**](https://anjulam.me/)
 
 
